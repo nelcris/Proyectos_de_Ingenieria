@@ -1,6 +1,8 @@
-# Índice de Contenidos
+# Informe de la Regresión Lineal
 
 - **Introducción**
+
+
 - **Metodología**
   - Métodos utilizados
 - **Resultados**
