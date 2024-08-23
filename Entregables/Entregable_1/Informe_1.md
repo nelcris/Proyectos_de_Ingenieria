@@ -14,6 +14,7 @@ El objetivo de este  estudio es examinar las tendencias
 - **Metodología**
   - Métodos utilizados
 - **Resultados**
+  ## Matriz de correlación y Heatmap
 - **Discusión** _(opcional)_
 - **Referencias** _(en formato IEEE)_
 
