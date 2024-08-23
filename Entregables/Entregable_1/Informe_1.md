@@ -1,4 +1,5 @@
-![logo](https://github.com/user-attachments/assets/475e8826-632f-431d-bf48-e27c1ae5d859){: .center}
+<center>![logo](https://github.com/user-attachments/assets/475e8826-632f-431d-bf48-e27c1ae5d859)</center>
+
 # Informe de la Regresión Lineal
 
 - **Introducción**
