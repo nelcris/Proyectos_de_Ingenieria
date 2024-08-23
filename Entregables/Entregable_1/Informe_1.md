@@ -1,4 +1,6 @@
-<center>![logo](https://github.com/user-attachments/assets/475e8826-632f-431d-bf48-e27c1ae5d859)</center>
+<p align="center">
+  <img src="https://github.com/JefHuiza/Fundamentos-de-Dise-o/assets/156036185/d3c66dfb-5faa-419b-bf1b-d897ea110ce7" width="70%">
+</p>
 
 # Informe de la Regresión Lineal
 
