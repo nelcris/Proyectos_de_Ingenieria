@@ -16,8 +16,9 @@ El objetivo de este  estudio es examinar las tendencias
 ## **Resultados**
 ### Matriz de correlación y Heatmap
 <p align="center">
-  <img src="![matriz de correlacion_tarea](https://github.com/user-attachments/assets/33620491-bfb0-44e1-a29b-2cf45f355c01)" width="70%">
+  <img src="https://github.com/user-attachments/assets/33620491-bfb0-44e1-a29b-2cf45f355c01" alt="matriz de correlacion_tarea" width="70%">
 </p>
+
 
 ## **Discusión** _(opcional)_
 ## **Referencias** _(en formato IEEE)_
