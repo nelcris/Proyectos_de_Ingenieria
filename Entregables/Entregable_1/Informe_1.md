@@ -18,7 +18,8 @@ El objetivo de este  estudio es examinar las tendencias
 <p align="center">
   <img src="https://github.com/user-attachments/assets/33620491-bfb0-44e1-a29b-2cf45f355c01" alt="matriz de correlacion_tarea" width="140%">
 </p>
-Al comparar Daily Max 8-hour CO Concentration vs Daily AQI Value la correlación es 0.998721 Lo que explica que existe una correlación positiva casi perfecta entre la concentración máxima diaria de CO en 8 horas y el valor diario de AQI (Índice de Calidad del Aire). Esto indica que a medida que aumenta la concentración de CO, el valor del AQI también aumenta casi de manera proporcional.
+Al comparar las siguientes correlaciones:
+Daily Max 8-hour CO Concentration vs Daily AQI Value la correlación es 0.998721 Lo que explica que existe una correlación positiva casi perfecta entre la concentración máxima diaria de CO en 8 horas y el valor diario de AQI (Índice de Calidad del Aire). Esto indica que a medida que aumenta la concentración de CO, el valor del AQI también aumenta casi de manera proporcional.
 
 ## **Discusión** _(opcional)_
 ## **Referencias** _(en formato IEEE)_
