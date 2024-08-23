@@ -44,10 +44,6 @@ La correlación es 0.999971. Existe una correlación positiva casi perfecta entr
 ### Matriz de correlación y Heatmap (2023)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a47653d3-2e7f-46b7-bc0e-5683a5b7e036" alt="heatmap_Tarea" width="70%">
-</p>
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/8ca33e8c-a1e5-42d3-aee8-2b2b55065740" alt="matriz de correlacion_tarea_2023" width="70%">
 </p>
 
