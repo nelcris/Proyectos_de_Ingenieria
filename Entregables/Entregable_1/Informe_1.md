@@ -19,6 +19,12 @@ El objetivo de este  estudio es examinar las tendencias
 <p align="center">
   <img src="https://github.com/user-attachments/assets/33620491-bfb0-44e1-a29b-2cf45f355c01" alt="matriz de correlacion_tarea" width="140%">
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a47653d3-2e7f-46b7-bc0e-5683a5b7e036" alt="heatmap_Tarea" width="70%">
+</p>
+
+
 Al comparar las siguientes correlaciones:
 
 
