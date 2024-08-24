@@ -78,15 +78,15 @@ La correlación entre el porcentaje de datos completos y el código de parámetr
 ## **Discusión** _(opcional)_
 
 
-El monóxido de carbono (CO) en la atmósfera es generalmente considerado perjudicial. A diferencia del dióxido de carbono (CO₂), que es esencial para la fotosíntesis y tiene un papel en el ciclo de vida de las plantas, el CO es un contaminante tóxico para los seres humanos y animales. Se une a la hemoglobina en la sangre, impidiendo que el oxígeno se transporte adecuadamente por el cuerpo, lo que puede llevar a la asfixia y, en altas concentraciones, a la muerte [1]. El CO se produce principalmente por la combustión incompleta de combustibles fósiles, como en los motores de los vehículos y las estufas mal ventiladas.
+El monóxido de carbono (CO) en la atmósfera es generalmente considerado perjudicial. A diferencia del dióxido de carbono (CO₂), que es esencial para la fotosíntesis y tiene un papel en el ciclo de vida de las plantas, el CO es un contaminante tóxico para los seres humanos y animales. Se une a la hemoglobina en la sangre, impidiendo que el oxígeno se transporte adecuadamente por el cuerpo, lo que puede llevar a la asfixia y, en altas concentraciones, a la muerte [^2]. El CO se produce principalmente por la combustión incompleta de combustibles fósiles, como en los motores de los vehículos y las estufas mal ventiladas.
 
-Medir la concentración de monóxido de carbono (CO) en los Estados Unidos es crucial para proteger la salud pública y el medio ambiente . En cuanto a los valores de CO permitidos, la Agencia de Protección Ambiental (EPA) establece un estándar nacional de calidad del aire para CO de 9 partes por millón (ppm) sobre un promedio de 8 horas y 35 ppm sobre un promedio de 1 hora [2].
+Medir la concentración de monóxido de carbono (CO) en los Estados Unidos es crucial para proteger la salud pública y el medio ambiente . En cuanto a los valores de CO permitidos, la Agencia de Protección Ambiental (EPA) establece un estándar nacional de calidad del aire para CO de 9 partes por millón (ppm) sobre un promedio de 8 horas y 35 ppm sobre un promedio de 1 hora [^2].
 
 De acuerdo a la regresión lineal realizada, las relaciones de variables más destacadas son las correlaciones casi perfectas entre la concentración máxima diaria de CO en 8 horas y el valor de AQI, así como entre el porcentaje de datos completos y el conteo diario de observaciones. Al comparar los datos de ambos años, los patrones de correlación se mantienen en gran medida similares. Por lo que la relación entre estas variables se considera directa y exacta.
 
 
 ## **Referencias** _(en formato IEEE)_
 
-[1] Raub, J. A., & Benignus, V. A. (2002). Carbon monoxide and the nervous system. Neuroscience & Biobehavioral Reviews, 26(8), 925-940.
+[^2]: Raub, J. A., & Benignus, V. A. (2002). Carbon monoxide and the nervous system. Neuroscience & Biobehavioral Reviews, 26(8), 925-940.
 
-[2] Agencia de Protección Ambiental de los Estados Unidos, "National Ambient Air Quality Standards (NAAQS) for Carbon Monoxide," EPA, 2023. [Online]. Available: https://www.epa.gov/co-pollution. [Accessed: 23-Aug-2024].
+[2]: Agencia de Protección Ambiental de los Estados Unidos, "National Ambient Air Quality Standards (NAAQS) for Carbon Monoxide," EPA, 2023. [Online]. Available: https://www.epa.gov/co-pollution. [Accessed: 23-Aug-2024].
