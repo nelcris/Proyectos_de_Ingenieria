@@ -77,7 +77,7 @@ La correlación entre el porcentaje de datos completos y el código de parámetr
 
 ## **Discusión** _(opcional)_
 
-
+pipipipippi
 El monóxido de carbono (CO) en la atmósfera es generalmente considerado perjudicial. A diferencia del dióxido de carbono (CO₂), que es esencial para la fotosíntesis y tiene un papel en el ciclo de vida de las plantas, el CO es un contaminante tóxico para los seres humanos y animales. Se une a la hemoglobina en la sangre, impidiendo que el oxígeno se transporte adecuadamente por el cuerpo, lo que puede llevar a la asfixia y, en altas concentraciones, a la muerte [^1]. El CO se produce principalmente por la combustión incompleta de combustibles fósiles, como en los motores de los vehículos y las estufas mal ventiladas.
 
 Medir la concentración de monóxido de carbono (CO) en los Estados Unidos es crucial para proteger la salud pública y el medio ambiente . En cuanto a los valores de CO permitidos, la Agencia de Protección Ambiental (EPA) establece un estándar nacional de calidad del aire para CO de 9 partes por millón (ppm) sobre un promedio de 8 horas y 35 ppm sobre un promedio de 1 hora [^2].
