@@ -43,7 +43,7 @@ La correlación es 0.068541, similar a la relación anterior, la correlación en
 La correlación es 0.068797. La relación entre el porcentaje de datos completos y el código de parámetros AQS también es muy débil, lo que indica una relación insignificante entre estas variables.
 
 - Percent Complete vs Daily Obs Count:
-La correlación es 0.999971. Existe una correlación positiva casi perfecta entre el porcentaje de datos completos y el conteo diario de observaciones. Esto sugiere que cuando hay un mayor porcentaje de datos completos, el número de observaciones diarias tiende a ser alto.
+La correlación es 0.999971. Existe una correlación positiva casi perfecta entre el porcentaje de datos completos y el conteo diario de observaciones. A pesar de ello, estos datos no son pertinentes para el estudio realizado.
 
 ### Matriz de correlación y Heatmap (2023)
 
