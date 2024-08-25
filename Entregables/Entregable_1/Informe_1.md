@@ -79,7 +79,7 @@ La correlación positiva casi perfecta entre el porcentaje de datos completos y 
 Correlación: -0.018200
 La correlación entre el porcentaje de datos completos y el código de parámetros AQS sigue siendo muy débil y negativa, lo que indica poca o ninguna relación entre estas variables.
 
-## **Discusión** _(opcional)_
+## **Discusión**
 
 
 El monóxido de carbono (CO) en la atmósfera es generalmente considerado perjudicial. A diferencia del dióxido de carbono (CO₂), que es esencial para la fotosíntesis y tiene un papel en el ciclo de vida de las plantas, el CO es un contaminante tóxico para los seres humanos y animales. Se une a la hemoglobina en la sangre, impidiendo que el oxígeno se transporte adecuadamente por el cuerpo, lo que puede llevar a la asfixia y, en altas concentraciones, a la muerte [^1]. El CO se produce principalmente por la combustión incompleta de combustibles fósiles, como en los motores de los vehículos y las estufas mal ventiladas.
