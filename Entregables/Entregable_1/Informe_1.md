@@ -42,8 +42,8 @@ La correlación es 0.068541, similar a la relación anterior, la correlación en
 
 <p align="center">
 <p float="left">  
-
-
+  <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/Freq%20CO%202022.png?raw=true" width="500" height="320" />  <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/Freq%20AQI%202022.png?raw=true" width="500" height="320" />  </p>
+  
 ### Matriz de correlación y Heatmap en el 2023 
 
 <p align="center">
