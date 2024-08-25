@@ -39,7 +39,7 @@ La correlación es 0.069491, positiva pero muy débil entre la concentración m�
 - Indice de Calidad del Aire diario vs Observaciones diarias:
 La correlación es 0.068541, similar a la relación anterior, la correlación entre el valor diario de AQI y el conteo diario de observaciones es muy débil, indicando poca o ninguna relación lineal.
 
-### Matriz de correlación y Heatmap (2023)
+### Matriz de correlación y Heatmap en el 2023
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8ca33e8c-a1e5-42d3-aee8-2b2b55065740" alt="matriz de correlacion_tarea_2023" width="140%">
