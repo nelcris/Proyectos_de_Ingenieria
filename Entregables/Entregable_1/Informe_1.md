@@ -12,7 +12,9 @@ A través de este informe, buscamos proporcionar una visión detallada de la sit
 
 
 ## **Metodología**
-  (Métodos utilizados)
+
+Para el analísis de la concentración del monoxido de carbono y el indice de calidad del aire, Se tomaron en cuenta los valores minimos, maximos de cada uno así como su desviación estandar. Además de ello, se ha realizado regresión lineal en codigo python con el fin facilitarnos la comprensión de los datos orginiales. La regresión lineal es un método de análisis estadístico que busca modelar la relación entre una variable dependiente y una variable independientes. En nuestro caso, la variable dependiente es el indice de calidad del aire y la variable independiente es la concentración de monoxido de carbono. Así se obtuvieron la toma del coeficiente para la formulación de la ecuación de la recta y el valor de R cuadrado.
+
 ## **Resultados**
 ### Matriz de correlación y Heatmap (2022)
 
