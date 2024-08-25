@@ -45,7 +45,15 @@ La correlación es 0.068541, similar a la relación anterior, la correlación en
   <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/Freq%20CO%202022.png?raw=true" width="500" height="320" />  <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/Freq%20AQI%202022.png?raw=true" width="500" height="320" />  </p>
 
 Tomando en cuenta como eje x concentración máxima diaria de CO en 8 horas y el eje y el Indice de Calidad del Aire diario, se realizo la regresión lineal y se obtuvieron los siguientes resultados.
-  
+
+<p align="center">
+  <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/RL%202022.png?raw=true" width="140%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/Gr%C3%A1fica%202022.png?raw=true" width="140%">
+</p>
+
 ### Matriz de correlación y Heatmap en el 2023 
 
 <p align="center">
@@ -77,7 +85,15 @@ La relación entre el valor diario de AQI y el conteo diario de observaciones ta
 <p float="left">  
   <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/Freq%20CO%202023.png?raw=true" width="500" height="320" />  <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/Freq%20AQI%202023.png?raw=true" width="500" height="320" />  </p>
 
+Tomando en cuenta como eje x concentración máxima diaria de CO en 8 horas y el eje y el Indice de Calidad del Aire diario, se realizo la regresión lineal y se obtuvieron los siguientes resultados.
 
+<p align="center">
+  <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/RL%202023.png?raw=true" width="140%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/Gr%C3%A1fica%202023.png?raw=true" width="140%">
+</p>
 
 ## **Discusión**
 
