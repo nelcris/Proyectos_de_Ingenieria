@@ -43,6 +43,8 @@ La correlación es 0.068541, similar a la relación anterior, la correlación en
 <p align="center">
 <p float="left">  
   <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/Freq%20CO%202022.png?raw=true" width="500" height="320" />  <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/Freq%20AQI%202022.png?raw=true" width="500" height="320" />  </p>
+
+Tomando en cuenta como eje x concentración máxima diaria de CO en 8 horas y el eje y el Indice de Calidad del Aire diario, se realizo la regresión lineal y se obtuvieron los siguientes resultados.
   
 ### Matriz de correlación y Heatmap en el 2023 
 
@@ -75,8 +77,9 @@ La relación entre el valor diario de AQI y el conteo diario de observaciones ta
 <p float="left">  
   <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/Freq%20CO%202023.png?raw=true" width="500" height="320" />  <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/Freq%20AQI%202023.png?raw=true" width="500" height="320" />  </p>
 
-## **Discusión**
 
+
+## **Discusión**
 
 El monóxido de carbono (CO) en la atmósfera es generalmente considerado perjudicial. A diferencia del dióxido de carbono (CO₂), que es esencial para la fotosíntesis y tiene un papel en el ciclo de vida de las plantas, el CO es un contaminante tóxico para los seres humanos y animales. Se une a la hemoglobina en la sangre, impidiendo que el oxígeno se transporte adecuadamente por el cuerpo, lo que puede llevar a la asfixia y, en altas concentraciones, a la muerte [^1]. El CO se produce principalmente por la combustión incompleta de combustibles fósiles, como en los motores de los vehículos y las estufas mal ventiladas.
 
@@ -85,7 +88,7 @@ Medir la concentración de monóxido de carbono (CO) en los Estados Unidos es cr
 De acuerdo a la regresión lineal realizada, las relaciones de variables más destacadas son las correlaciones casi perfectas entre la concentración máxima diaria de CO en 8 horas y el valor de AQI, así como entre el porcentaje de datos completos y el conteo diario de observaciones. Al comparar los datos de ambos años, los patrones de correlación se mantienen en gran medida similares. Por lo que la relación entre estas variables se considera directa y exacta.
 
 
-## **Referencias** _(en formato IEEE)_
+## **Referencias**
 
 [^1]: Raub, J. A., & Benignus, V. A. (2002). Carbon monoxide and the nervous system. Neuroscience & Biobehavioral Reviews, 26(8), 925-940.
 
