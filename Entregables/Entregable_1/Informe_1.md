@@ -96,7 +96,7 @@ Tomando en cuenta como eje x concentración máxima diaria de CO en 8 horas y el
 </p>
 
 ## **Discusión**
-
+La correlación alta entre la concentración máxima diaria de CO en 8 horas y el AQI diario (0.998721 en 2022 y 0.998755 en 2023) indica una relación casi perfecta entre estas variables. Esta alta asociación sugiere que el CO es un factor determinante en el cálculo del AQI, lo cual es un impacto negativo del CO en la calidad del aire y la salud humana. Asi mismo  La persistencia de esta alta correlación en ambos años requiere la importancia del monitoreo continuo de los niveles de CO como un indicador crucial de la calidad del aire.
 
 De acuerdo a la regresión lineal realizada, las relaciones de variables más destacadas son las correlaciones casi perfectas entre la concentración máxima diaria de CO en 8 horas y el valor de AQI, así como entre el porcentaje de datos completos y el conteo diario de observaciones. Al comparar los datos de ambos años, los patrones de correlación se mantienen en gran medida similares. Por lo que la relación entre estas variables se considera directa y exacta.
 
