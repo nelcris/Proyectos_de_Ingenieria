@@ -38,7 +38,7 @@ La correlación es 0.069491, positiva pero muy débil entre la concentración m�
 - Indice de Calidad del Aire diario vs Observaciones diarias:
 La correlación es 0.068541, similar a la relación anterior, la correlación entre el valor diario de AQI y el conteo diario de observaciones es muy débil, indicando poca o ninguna relación lineal.
 
-### Gráfica de datos de frecuencia de la concentración máxima diaria de CO en 8 horas y Indice de Calidad del Aire diario
+### Gráfica de datos de frecuencia de la concentración máxima diaria de CO en 8 horas e Indice de Calidad del Aire diario
 
 <p align="center">
 <p float="left">  
@@ -57,7 +57,6 @@ La correlación es 0.068541, similar a la relación anterior, la correlación en
 
 Análisis de la Matriz de Correlación 2023:
 
-
 - Concentración máxima diaria de CO en 8 horas vs Indice de Calidad del Aire diario:
 Correlación: 0.998755
 Hay una correlación positiva casi perfecta entre la concentración máxima diaria de CO en 8 horas y el valor diario de AQI. Esto refuerza la idea de que el aumento en la concentración de CO está fuertemente asociado con un aumento en el valor del AQI.
@@ -69,6 +68,12 @@ Existe una correlación negativa muy débil entre la concentración máxima diar
 - Indice de Calidad del Aire diario vs Observaciones diarias:
 Correlación: -0.017498
 La relación entre el valor diario de AQI y el conteo diario de observaciones también es negativa y muy débil, indicando que no existe una relación significativa entre estas variables.
+
+### Gráfica de datos de frecuencia de la concentración máxima diaria de CO en 8 horas e Indice de Calidad del Aire diario
+
+<p align="center">
+<p float="left">  
+  <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/Freq%20CO%202023.png?raw=true" width="500" height="320" />  <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/Freq%20AQI%202023.png?raw=true" width="500" height="320" />  </p>
 
 ## **Discusión**
 
