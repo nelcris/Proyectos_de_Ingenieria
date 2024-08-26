@@ -60,9 +60,7 @@ Tomando en cuenta como eje x concentración máxima diaria de CO en 8 horas y el
 
 
 ## **Discusión**
-El análisis comparativo de las correlaciones entre la concentración máxima diaria de CO en 8 horas, el Índice de Calidad del Aire (AQI) diario y el número de observaciones diarias para los años 2022 y 2023 revela varios hallazgos importantes. En ambos años, se observa una relación consistente entre el monóxido de carbono y la calidad del aire en Nevada. La correlación casi perfecta entre la concentración de CO y el AQI sugiere que el control de las emisiones de CO debería ser una prioridad en las políticas ambientales para mejorar la calidad del aire. Por otro lado, las correlaciones débiles con el número de observaciones diarias entre los dos parametros antes mencionados no ameritan una investigación profunda como estos no depende de las obserbvaciones diarias. Además, de acuerdo al cuadro de frecuencias, se observa que las concentraciones de monóxido de carbono en 8 horas en 2022 son ligeramente superiores a las de 2023 aunque la concentración se mantuvo relativamente constante en ambos años.
-
-
+El análisis comparativo de las correlaciones entre la concentración máxima diaria de CO en 8 horas, el Índice de Calidad del Aire (AQI) diario y el número de observaciones diarias para los años 2022 y 2023 revela varios hallazgos importantes. En ambos años, se observa una relación consistente entre el monóxido de carbono y la calidad del aire en Nevada, esto se puede verificar con las tablas de frecuencias de ambos parametros. Mientras más frecuentes sean ciertas concentraciones de CO diarias, el AQI debe de ser mmás significativo en la gráfica. La correlación casi perfecta entre la concentración de CO y el AQI sugiere que el control de las emisiones de CO debería ser una prioridad en las políticas ambientales para mejorar la calidad del aire. Por otro lado, las correlaciones débiles con el número de observaciones diarias entre los dos parametros antes mencionados no ameritan una investigación profunda como estos no depende de las obserbvaciones diarias.
 
 ## **Referencias**
 
