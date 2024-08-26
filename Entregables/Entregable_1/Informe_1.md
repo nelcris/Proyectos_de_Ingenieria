@@ -47,11 +47,11 @@ La correlación es 0.013416, similar a la relación anterior, la correlación en
 Tomando en cuenta como eje x concentración máxima diaria de CO en 8 horas y el eje y el Indice de Calidad del Aire diario, se realizo la regresión lineal y se obtuvieron los siguientes resultados.
 
 <p align="center">
-  <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/RL%202022.png?raw=true" width="140%">
+  <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/RL%202022&2023.png?raw=true" width="140%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/Gr%C3%A1fica%202022.png?raw=true" width="140%">
+  <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/Gr%C3%A1fica%202022&2023.png?raw=true" width="140%">
 </p>
 
 ### Matriz de correlación y Heatmap en el 2023 
