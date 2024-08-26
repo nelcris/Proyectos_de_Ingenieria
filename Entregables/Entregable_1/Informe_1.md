@@ -54,6 +54,9 @@ Tomando en cuenta como eje x concentración máxima diaria de CO en 8 horas y el
   <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/Gr%C3%A1fica%202022&2023.png?raw=true" width="140%">
 </p>
 
+<p align="center">
+  <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/R.png?raw=true" width="140%">
+</p>
 
 
 ## **Discusión**
