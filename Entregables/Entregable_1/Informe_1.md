@@ -54,46 +54,7 @@ Tomando en cuenta como eje x concentración máxima diaria de CO en 8 horas y el
   <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/Gr%C3%A1fica%202022&2023.png?raw=true" width="140%">
 </p>
 
-### Matriz de correlación y Heatmap en el 2023 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8ca33e8c-a1e5-42d3-aee8-2b2b55065740" alt="matriz de correlacion_tarea_2023" width="140%">
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7c766ac4-7782-47bf-95b4-39f3e3ad248b" alt="heatmap_tarea_2023" width="70%">
-</p>
-
-
-Análisis de la Matriz de Correlación 2023:
-
-- Concentración máxima diaria de CO en 8 horas vs Indice de Calidad del Aire diario:
-Correlación: 0.998755
-Hay una correlación positiva casi perfecta entre la concentración máxima diaria de CO en 8 horas y el valor diario de AQI. Esto refuerza la idea de que el aumento en la concentración de CO está fuertemente asociado con un aumento en el valor del AQI.
-
-- Concentración máxima diaria de CO en 8 horas vs Observaciones diarias:
-Correlación: -0.017442
-Existe una correlación negativa muy débil entre la concentración máxima diaria de CO en 8 horas y el conteo diario de observaciones. Esta relación es insignificante, lo que sugiere que estas dos variables no están linealmente relacionadas.
-
-- Indice de Calidad del Aire diario vs Observaciones diarias:
-Correlación: -0.017498
-La relación entre el valor diario de AQI y el conteo diario de observaciones también es negativa y muy débil, indicando que no existe una relación significativa entre estas variables.
-
-### Gráfica de datos de frecuencia de la concentración máxima diaria de CO en 8 horas e Indice de Calidad del Aire diario
-
-<p align="center">
-<p float="left">  
-  <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/Freq%20CO%202023.png?raw=true" width="500" height="320" />  <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/Freq%20AQI%202023.png?raw=true" width="500" height="320" />  </p>
-
-Tomando en cuenta como eje x concentración máxima diaria de CO en 8 horas y el eje y el Indice de Calidad del Aire diario, se realizo la regresión lineal y se obtuvieron los siguientes resultados.
-
-<p align="center">
-  <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/RL%202023.png?raw=true" width="140%">
-</p>
-
-<p align="center">
-  <img src="https://github.com/JefHuiza/Proyectos_de_Ingenieria/blob/main/Entregables/Entregable_1/entregables/Gr%C3%A1fica%202023.png?raw=true" width="140%">
-</p>
 
 ## **Discusión**
  El análisis comparativo de las correlaciones entre la concentración máxima diaria de CO en 8 horas, el Índice de Calidad del Aire (AQI) diario y el número de observaciones diarias para los años 2022 y 2023 revela varios hallazgos importantes. En ambos años, se observa una relación consistente entre el monóxido de carbono y la calidad del aire en Nevada. La correlación casi perfecta entre la concentración de CO y el AQI sugiere que el control de las emisiones de CO debería ser una prioridad en las políticas ambientales para mejorar la calidad del aire. Por otro lado, las correlaciones débiles con el número de observaciones diarias indican que factores externos o el propio método de recolección de datos pueden estar influyendo en la falta de una relación significativa entre el AQI y la concentración de CO. Además, de acuerdo al cuadro de frecuencias, se observa que las concentraciones de monóxido de carbono en 8 horas en 2022 son ligeramente superiores a las de 2023 aunque la concentración se mantuvo relativamente constante en ambos años.
