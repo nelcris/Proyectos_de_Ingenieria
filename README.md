@@ -23,7 +23,9 @@
 </p>
 
 ## **Definicion de las ODS:**
-
+- ODS 6:Busca garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos.
+- ODS 7:Busca garantizar el acceso a una energía limpia y asequible, clave para el desarrollo de la agricultura, las empresas,etc.
+- ODS 11:Pretende lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.
 
 
 
