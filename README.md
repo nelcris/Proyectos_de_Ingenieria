@@ -16,10 +16,16 @@
 
 **OBJETIVOS DE DESARROLLO SOSTENIBLE**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3b304b85-2da5-47e2-87ce-3e6d26720319" alt="ODS 1" width="200px" />
-  <img src="https://github.com/user-attachments/assets/7016e9fc-d279-4d60-9af2-0ef3065725cc" alt="ODS 2" width="200px" />
-  <img src="https://github.com/user-attachments/assets/10a33541-dd90-4dcd-bb3b-9cfca18fb9b0" alt="ODS 3" width="200px" />
+  <img src="https://github.com/user-attachments/assets/ef3ad11d-1da3-46ae-bb1c-2b513f35e2d1" alt="Imagen 1" width="200px" />
 </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fd9a81b6-900a-44ea-9644-73f6422a9856" alt="Imagen 2" width="200px" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/94e057c3-785a-41a0-b661-d82e6e900cfa" alt="Imagen 3" width="200px" />
+</p>
+
+
 
 
 
