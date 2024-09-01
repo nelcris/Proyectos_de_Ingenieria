@@ -28,5 +28,6 @@
 - ODS 11:Pretende lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.
 
 
-
+# **Bibliografía**
+  -ODS 11 Ciudades y comunidades sostenibles | Pacto Mundial ONU. (2024, 1 agosto). Pacto Mundial. https://www.pactomundial.org/ods/11-ciudades-y-comunidades-sostenibles/
 
