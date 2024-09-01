@@ -2,7 +2,7 @@
 # **PROYECTOS DE INGENERIA**
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/32e2c6d4-90f5-4a23-ac4f-392ccc493ede" alt="Imagen 1" width="400px" />
+ <img src="https://github.com/user-attachments/assets/c091375d-c847-4ff3-a3d9-e256c746d016" alt="Imagen 1" width="400px" />
 </p>
 
 
