@@ -15,8 +15,11 @@
 - Jordan Andre Nieves Sulca 
 
 **OBJETIVOS DE DESARROLLO SOSTENIBLE**
-![image](https://github.com/user-attachments/assets/3b304b85-2da5-47e2-87ce-3e6d26720319)
-![image](https://github.com/user-attachments/assets/7016e9fc-d279-4d60-9af2-0ef3065725cc)
-![image](https://github.com/user-attachments/assets/10a33541-dd90-4dcd-bb3b-9cfca18fb9b0)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3b304b85-2da5-47e2-87ce-3e6d26720319" alt="ODS 1" width="200px" />
+  <img src="https://github.com/user-attachments/assets/7016e9fc-d279-4d60-9af2-0ef3065725cc" alt="ODS 2" width="200px" />
+  <img src="https://github.com/user-attachments/assets/10a33541-dd90-4dcd-bb3b-9cfca18fb9b0" alt="ODS 3" width="200px" />
+</p>
+
 
 
