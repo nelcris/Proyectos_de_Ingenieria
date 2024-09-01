@@ -18,5 +18,4 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Sustainable_Development_Goal-es-11.jpg" alt="FOTO ODS 7" width="300px" />
 </p>
-![Agua limpia y saneamiento](ruta/a/la/imagen1.ext) ![Energía asequible y no contaminante](ruta/a/la/imagen2.ext) ![Ciudades y comunidades sostenibles](ruta/a/la/imagen3.ext)
-
+![Descripción de la imagen 1](https://via.placeholder.com/150) ![Descripción de la imagen 2](https://via.placeholder.com/150) ![Descripción de la imagen 3](https://via.placeholder.com/150)
