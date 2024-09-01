@@ -20,4 +20,3 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Sustainable_Development_Goal-es-07.jpg" alt="FOTO ODS 7" width="200px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Sustainable_Development_Goal-es-11.jpg" alt="FOTO ODS 11" width="200px" />
 </p>
-
