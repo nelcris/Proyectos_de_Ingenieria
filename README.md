@@ -1,9 +1,6 @@
 # **UNIVERSIDAD PERUANA CAYETANO HEREDIA**
-
-<p align="center">
- <img src="https://github.com/user-attachments/assets/c091375d-c847-4ff3-a3d9-e256c746d016" alt="Imagen 1" width="400px" />
-</p>
 # **PROYECTOS DE INGENERIA**
+
 
 **Bienvenido al repositorio del Grupo 2 del curso Proyectos de Ingeneria**
 # **INTRODUCCIÓN**
