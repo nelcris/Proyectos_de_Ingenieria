@@ -1,6 +1,11 @@
 # **UNIVERSIDAD PERUANA CAYETANO HEREDIA**
 # **PROYECTOS DE INGENERIA**
 
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/32e2c6d4-90f5-4a23-ac4f-392ccc493ede" alt="Imagen 1" width="400px" />
+</p>
+
+
 **Bienvenido al repositorio del Grupo 2 del curso Proyectos de Ingeneria**
 # **INTRODUCCIÓN**
 *En este repositorio se subirán todos los entregables e informes que se iran trabajando durante el curso.*
