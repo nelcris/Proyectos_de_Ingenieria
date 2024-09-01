@@ -7,7 +7,7 @@
 
 *Estamos interesados en desarrollar e implementar soluciones de energía sostenible en Perú, centradas en el uso de fuentes renovables. Nuestro objetivo es proporcionar acceso a energía asequible sin comprometer los ecosistemas.*
 
-Integrantes:
+## **Integrantes**
 -Joaquin Felipe Carpio Peralta
 -Jeferson Juvenal Huiza Quispe
 -Cristian Nelson Lima Huamani
