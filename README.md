@@ -17,9 +17,7 @@
 **OBJETIVOS DE DESARROLLO SOSTENIBLE**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ef3ad11d-1da3-46ae-bb1c-2b513f35e2d1" alt="Imagen 1" width="200px" />
-  
   <img src="https://github.com/user-attachments/assets/fd9a81b6-900a-44ea-9644-73f6422a9856" alt="Imagen 2" width="200px" />
-  
   <img src="https://github.com/user-attachments/assets/94e057c3-785a-41a0-b661-d82e6e900cfa" alt="Imagen 3" width="200px" />
 </p>
 
