@@ -16,6 +16,8 @@
 
 **OBJETIVOS DE DESARROLLO SOSTENIBLE**
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Sustainable_Development_Goal-es-11.jpg" alt="FOTO ODS 7" width="300px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Sustainable_Development_Goal-es-06.jpg" alt="FOTO ODS 6" width="200px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Sustainable_Development_Goal-es-07.jpg" alt="FOTO ODS 7" width="200px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Sustainable_Development_Goal-es-11.jpg" alt="FOTO ODS 11" width="200px" />
 </p>
-![Descripción de la imagen 1](https://via.placeholder.com/150) ![Descripción de la imagen 2](https://via.placeholder.com/150) ![Descripción de la imagen 3](https://via.placeholder.com/150)
+
